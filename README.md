@@ -12,14 +12,6 @@ This repository contains a manual implementation of Logistic Regression for bina
 
 
 
-## Files
-
- `main.py`: The source code containing the algorithm, synthetic data generation, and plotting logic.
-
- `loss\_graph.png`: The visualization of the training loss over iterations.
-
-
-
 ## How to Run
 
 1. Install dependencies:
