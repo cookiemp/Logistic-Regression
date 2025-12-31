@@ -1,3 +1,15 @@
+"""
+ Group Members
+
+1.Hossaena Berhan (UGR/1447/15)
+
+2.Hosea Shimeles (UGR/5890/15)
+
+3.Kenawaq Birhanu (UGR/1654/15)
+
+4.Kaleab Yohannes (UGR/6598/15)
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
