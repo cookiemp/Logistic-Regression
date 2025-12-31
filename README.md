@@ -26,5 +26,5 @@ This repository contains a manual implementation of Logistic Regression for bina
 
 ```bash
 
-&nbsp;  pip install numpy matplotlib
+pip install numpy matplotlib
 ```
